@@ -24,8 +24,8 @@ A responsive, modern, and visually appealing weather dashboard that provides cur
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
-   cd weather-dashboard
+   git clone https://github.com/Sumithra49/5-days-weather-forecast.git
+   cd 5-days-weather-forecast
 
    ## Deployment
 Frontend: https://weatherdashboard-1.onrender.com/
