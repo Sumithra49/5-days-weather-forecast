@@ -33,11 +33,11 @@ Backend: https://weatherdashboard-9wwg.onrender.com
 
 
 ## 🔧 Technologies Used
-React: Frontend library for building user interfaces.
-CSS: Custom styling for a modern look and feel.
-Axios: Promise-based HTTP client for fetching weather data.
-OpenWeatherMap API: Provides the weather data for cities.
-JSON Server: A simple backend to store and retrieve favorite cities.
+React: Frontend library for building user interfaces.<br>
+CSS: Custom styling for a modern look and feel..<br>
+Axios: Promise-based HTTP client for fetching weather data..<br>
+OpenWeatherMap API: Provides the weather data for cities..<br>
+JSON Server: A simple backend to store and retrieve favorite cities..<br>
 
 ## 🌐 API Integration
 This application integrates with the OpenWeatherMap API to fetch real-time weather data. Ensure you have a valid API key and replace it in the api.js file.
